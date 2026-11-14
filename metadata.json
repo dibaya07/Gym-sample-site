@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Athletic",
+  "description": "Performance-driven athletic club featuring Olympic strength training, functional conditioning, personal coaching, and architectural recovery suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
